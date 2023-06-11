@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eyes Blink Project](https://github.com/MazlumTekin1/eyes-blink-project)
 
-- 🌱 I’m currently learning **Go-Fiber, Python-OpenCV**
+- 🌱 I’m currently Working at Diatics **Go-Fiber, Go Fasthttp, PostgreSQL, RPA-ERP Solitions**
 
 - 📫 How to reach me **mazlumtekin.kariyer@gmail.com**
 
