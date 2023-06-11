@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mazlumtekin.kariyer@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/120pkx83UHRdpBKrSVOqkLHH6HW5VGn3A/view?usp=sharing](https://drive.google.com/file/d/120pkx83UHRdpBKrSVOqkLHH6HW5VGn3A/view?usp=sharing)](https://drive.google.com/drive/folders/1fDVyzTTvICcpGFSMHMs6k4QBYUKvauOw?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/120pkx83UHRdpBKrSVOqkLHH6HW5VGn3A/view?usp=sharing](https://drive.google.com/drive/folders/1fDVyzTTvICcpGFSMHMs6k4QBYUKvauOw?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
