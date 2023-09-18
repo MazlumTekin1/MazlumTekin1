@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Mazlum Tekin</h1>
-<h3 align="center">Go Backend Developer</h3>
-
-- 🔭 I am currently working on [Eyes Blink Project](https://github.com/MazlumTekin1/eyes-blink-project)
+<h3 align="center">Software Engineer @Diatics</h3>
 
 - 🌱 I’m currently Working at Diatics: **Go-Fiber, Go Fasthttp, PostgreSQL, RPA-ERP Solitions**
+
+- 🔭 I am currently working on [Eyes Blink Project](https://github.com/MazlumTekin1/eyes-blink-project)
 
 - 📫 How to reach me **mazlumtekin.kariyer@gmail.com**
 
