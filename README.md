@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently Working: **Go-Fiber, PostgreSQL, Docker, Kubernetes, Ubuntu Server, Python FastAPI**
 
-- 🔭 I am currently working on [Eyes Blink Project](https://github.com/MazlumTekin1/eyes-blink-project)
-
 - 📫 How to reach me **mazlumtekin.kariyer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/120pkx83UHRdpBKrSVOqkLHH6HW5VGn3A/view?usp=sharing](https://drive.google.com/drive/folders/1fDVyzTTvICcpGFSMHMs6k4QBYUKvauOw?usp=sharing)
