@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Mazlum Tekin</h1>
+<h1 align="center">Hi 👋, I'm Mazlum Tekin</h1>
 <h3 align="center">Software Developer - Computer Engineer</h3>
 
 - 🌱 I’m currently Working: **Go-Fiber, PostgreSQL, Docker, Kubernetes, Ubuntu Server, Python FastAPI**
